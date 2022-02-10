@@ -3,6 +3,7 @@ Repo for twitter sports data analysis comparing the accuracy of non-verified use
 NBA Game dataset from: https://www.kaggle.com/nathanlauga/nba-games
 
 TODO: collect data using snscrape and loop through keywords for teams
+--Scrape for a list of queries relating to the mavs/whatever team and then drop the duplicates
 
 TODO: identify which tweets are predictions of games
 

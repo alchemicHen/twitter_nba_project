@@ -1,10 +1,7 @@
 Repo for twitter sports data analysis comparing the accuracy of non-verified users to verified users in predicting NBA games.
 
+mavs_games_tweets_merged: contains the joined and cleaned dataset to be used for analysis
+
 NBA Game dataset from: https://www.kaggle.com/nathanlauga/nba-games
 
-TODO: collect data using snscrape and loop through keywords for teams
---Scrape for a list of queries relating to the mavs/whatever team and then drop the duplicates
-
-TODO: identify which tweets are predictions of games
-
-TODO: data analysis and statistical processes on prediction/sentiment/language accuracy 
+TODO: Sentiment analysis, statistical processes, writeup
